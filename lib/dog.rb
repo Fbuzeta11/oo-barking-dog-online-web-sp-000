@@ -7,4 +7,4 @@ class Dog
   
   end  # Your code goes here!
 
-fido = Dogs.new 
+fido = Dog.new 
